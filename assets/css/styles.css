@@ -79,6 +79,7 @@ section {
 .albums {
     text-align: center;
     margin-bottom: 10px;
+    font-size: 25px;
 }
 
 /* .album {
@@ -151,4 +152,64 @@ li {
    /* border: 1px solid red; */
    height: 900px;
    margin: 0 auto;
+}
+
+.about {
+    border-bottom: 1px solid black;
+    border-bottom-width: 5px;
+    border-bottom-color: #7c73e6;
+}
+
+#development {
+    background-color: #dc2f2f;
+    text-transform: uppercase;
+    border: 1px solid black;
+    color: #fafafa;
+    padding: 10px;
+}
+
+#about-us {
+    margin-top: 50px;
+    /* border-bottom: 1px solid black; */
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+#submissions {
+    text-align: center;
+    border-bottom: 1px solid black;
+    border-bottom-width: 5px;
+    border-bottom-color: #7c73e6;
+}
+
+#submissions-header {
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+#how-it-works {
+    /* border: 1px solid black; */
+    text-align: center;
+}
+
+.intro {
+    line-height: 1.5;
+    font-size: 25px;
+}
+
+.steps {
+    /* border: 1px solid black; */
+    /* border-bottom: 1px solid black; */
+    font-size: 25px;
+    margin-bottom: 35px;
+}
+
+#how-it-works-title {
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+#juice {
+    text-decoration: underline;
+    color: #7c73e6;
 }
