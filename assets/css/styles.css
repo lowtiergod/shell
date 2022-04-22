@@ -218,3 +218,15 @@ li {
 .slogan {
     font-size: 10px;
 }
+
+.undisputed {
+    text-transform: uppercase;
+    color: red;
+    font-size: 200px;
+}
+
+.coming-soon {
+    color: #7c73e6;
+    margin-bottom: 10px;
+    display: inline-block;
+}
